@@ -31,6 +31,25 @@ Repository ini berisi proyek data analytics yang saya kerjakan selama mengikuti 
 # Dicoding Collection Dashboard ✨
 
 ## Setup Environment - Shell/Terminal
+Buka VCS dan klik New Terminal
+```
+mkdir proyek_analisis_data
+cd proyek_analisis_data
+python -m venv proyek_analisis_data
+```
+Windows
+```
+proyek_analisis_data\Scripts\activate
+```
+Linux/Mac
+```
+source proyek_analisis_data/bin/activate
+```
+```
+pip install -r requirements.txt
+```
+
+## Setup Environment - Shell/Terminal
 ```
 mkdir proyek_analisis_data
 cd proyek_analisis_data
