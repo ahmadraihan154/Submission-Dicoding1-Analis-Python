@@ -35,15 +35,15 @@ Buka VCS dan klik New Terminal
 ```
 mkdir proyek_analisis_data
 cd proyek_analisis_data
-python -m venv proyek_analisis_data
+python -m venv proyek_venv
 ```
 Windows
 ```
-proyek_analisis_data\Scripts\activate
+proyek_venv\Scripts\activate
 ```
 Linux/Mac
 ```
-source proyek_analisis_data/bin/activate
+source proyek_venv/bin/activate
 ```
 ```
 pip install -r requirements.txt
