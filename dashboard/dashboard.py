@@ -3,10 +3,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 from datetime import date
+import os
 
 sns.set(style='dark')
 
 # Memuat Data dari kode 1
+file_path = os.path.join(os.path.dirname(__file__), 'day_cleaned.csv')
 day_df = pd.read_csv('day_cleaned.csv', parse_dates=['date'])
 hour_df = pd.read_csv('hour_cleaned.csv', parse_dates=['date'])
 
