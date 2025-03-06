@@ -61,4 +61,4 @@ pip install -r requirements.txt
 ## Run steamlit app
 ```
 streamlit run dashboard.py
-``` Atau bisa dengan kunjungi website ini [Project Ai Engineer](https://bike-sharing-ariniamsr.streamlit.app/)
+``` Atau bisa dengan kunjungi website ini [Project Ai Engineer](https://project1aiengineer.streamlit.app//)
