@@ -45,6 +45,7 @@ Linux/Mac
 ```
 source proyek_venv/bin/activate
 ```
+Install Library yang diperlukan
 ```
 pip install -r requirements.txt
 ```
