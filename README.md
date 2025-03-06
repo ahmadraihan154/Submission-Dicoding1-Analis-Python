@@ -28,11 +28,17 @@ Repository ini berisi proyek data analytics yang saya kerjakan selama mengikuti 
 - **/dashboard**: Direktori ini berisi dashboard.py yang digunakan untuk membuat dashboard hasil analisis data.
 - **notebook.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
-## Penggunaan
-1. Masuk ke direktori proyek (Local):
+# Dicoding Collection Dashboard ✨
 
-    ```shell
-    cd bike-sharing/dashboard/
-    streamlit run dashboard.py
-    ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bike-sharing-ariniamsr.streamlit.app/)
+## Setup Environment - Shell/Terminal
+```
+mkdir proyek_analisis_data
+cd proyek_analisis_data
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
+## Run steamlit app
+```
+streamlit run dashboard.py
+``` Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bike-sharing-ariniamsr.streamlit.app/)
