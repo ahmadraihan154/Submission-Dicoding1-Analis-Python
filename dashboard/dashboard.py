@@ -8,7 +8,8 @@ import os
 sns.set(style='dark')
 
 # Memuat Data dari kode 1
-file_path = os.path.join(os.path.dirname(__file__), 'day_cleaned.csv')
+file_path_day = os.path.join(os.path.dirname(__file__), 'day_cleaned.csv')
+file_path_hour = os.path.join(os.path.dirname(__file__), 'hour_cleaned.csv')
 day_df = pd.read_csv('day_cleaned.csv', parse_dates=['date'])
 hour_df = pd.read_csv('hour_cleaned.csv', parse_dates=['date'])
 
