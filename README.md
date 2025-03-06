@@ -6,7 +6,7 @@
 
 ## Project Analisis Data
 
-Repository ini berisi proyek data analytics yang saya kerjakan selama mengikuti program Laskar AI. 
+Repository ini berisi proyek Ai Engineer yang saya kerjakan selama mengikuti program Laskar AI. 
 
 ## Deskripsi
 
@@ -61,4 +61,4 @@ pip install -r requirements.txt
 ## Run steamlit app
 ```
 streamlit run dashboard.py
-``` Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bike-sharing-ariniamsr.streamlit.app/)
+``` Atau bisa dengan kunjungi website ini [Project Ai Engineer](https://bike-sharing-ariniamsr.streamlit.app/)
