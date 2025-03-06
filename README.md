@@ -2,7 +2,7 @@
 # Tugas Submission Dicoding "Belajar Analisis Data dengan Python" by Ahmad Raihan
 
 ## Project Overview
-![Bike Sharing Dashboard Streamlit Preview](https://github.com/user-attachments/assets/10b4ac0c-f89d-419e-bfa9-0e520db6ec4b)
+![Dashboard Preview](https://github.com/user-attachments/assets/26afaa12-5d0a-4488-863a-036fce550052)
 
 ## Project Analisis Data
 
