@@ -14,6 +14,12 @@ Repository ini berisi proyek data analytics yang saya kerjakan selama mengikuti 
     1. hour.csv: Berisi jumlah penyewaan sepeda yang dihitung per jam dengan total 17.379 data
     2. day.csv: Berisi jumlah penyewaan sepeda yang dihitung per hari dengan total 731 data
 
+- Adapun Tahapan dari pengerjaan project ini adalah :
+    1. Data Wrangling
+    2. Exploratory Data Analysis (EDA)
+    3. Data Visualization
+    4. Creating Dashboard
+ 
 -  Tujuan akhir dari pengerjaan project ini adalah untuk menghasilkan wawasan ataupun insight yang berguna dari data yang dianalisis.
 
 ## Struktur Direktori
