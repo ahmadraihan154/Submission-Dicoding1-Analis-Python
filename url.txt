@@ -1,0 +1,8 @@
+Adapun Url dari dashboard yang dibuat dapat diakses di streamlit cloud dibawah
+
+https://project1aiengineer.streamlit.app/
+
+
+Jika terdapat masalah pada file kunjugi link GitHub dibawah
+
+https://github.com/ahmadraihan154/Submission-Dicoding1-Analis-Python
